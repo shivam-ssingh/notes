@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: This is Shivam's Notes
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the place where I keep all my notes to study on the go!
